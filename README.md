@@ -1,3 +1,1 @@
 # strapi
-
-adafasd
